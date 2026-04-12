@@ -35,7 +35,7 @@ packages = ["src/webenc"]
 [dependency-groups]
 dev = [
     "mypy>=1.19",
-    "pytest>=9.0",
+    "pytest>=9.0.3",
     "ruff>=0.11",
 ]
 
